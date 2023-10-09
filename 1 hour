@@ -1,6 +1,6 @@
 # Course Outline: Maven Essentials 🚀
 
-## **1. Introduction to Maven 👋 (5 minutes)**
+## 1. Introduction to Maven 👋 (5 minutes)
 
 -   🌟 **Welcome**: Welcome participants to the course.
     
@@ -9,7 +9,7 @@
 -   📚 **Importance**: Effective project management and dependency management are crucial for efficient software development.
     
 
-## **2. What is Maven? 🤔 (5 minutes)**
+## 2. What is Maven? 🤔 (5 minutes)
 
 -   🧐 **Definition**: Maven is a powerful build automation and project management tool used primarily for Java projects. It simplifies building, dependency management, and documentation.
     
@@ -18,7 +18,7 @@
 -   🌐 **Central Repository**: Maven's central repository is a vast collection of open-source libraries and plugins, simplifying dependency management.
     
 
-## **3. Installing and Setting Up Maven 🛠️ (5 minutes)**
+## 3. Installing and Setting Up Maven 🛠️ (5 minutes)
 
 -   📥 **Installation**: To install Maven, download the binary zip file, extract it, and add the "bin" directory to your system's PATH.
     
@@ -27,7 +27,7 @@
 -   📂 **Directory Structure**: Maven enforces a specific project structure, including `src/main` and `src/test` directories, for consistency.
     
 
-## **4. Maven Project Structure 🏗️ (5 minutes)**
+## 4. Maven Project Structure 🏗️ (5 minutes)
 
 -   🏠 **Project Layout**: A typical Maven project has a structured layout with `src/main/java` for code and `src/main/resources` for resources.
     
@@ -36,7 +36,7 @@
 -   📝 **Organization**: Maintaining this structure ensures a well-organized project.
     
 
-## **5. Building Projects 🏭 (5 minutes)**
+## 5. Building Projects 🏭 (5 minutes)
 
 -   🏗️ **Project Creation**: Create a new Maven project using the `mvn archetype:generate` command.
     
@@ -45,7 +45,7 @@
 -   🚀 **Build Command**: Use the `mvn` command to build and package projects. For instance, `mvn package` creates a distributable package.
     
 
-## **6. Managing Dependencies 📦 (5 minutes)**
+## 6. Managing Dependencies 📦 (5 minutes)
 
 -   🧩 **Dependency Basics**: Dependencies are external libraries or modules your project relies on.
     
@@ -64,7 +64,7 @@
 -   🌐 **Dependency Resolution**: Maven resolves and downloads dependencies from repositories like Maven Central.
     
 
-## **7. Maven Plugins 🧩 (5 minutes)**
+## 7. Maven Plugins 🧩 (5 minutes)
 
 -   📦 **Plugin Introduction**: Plugins extend Maven's functionality.
     
@@ -76,7 +76,7 @@
 -   ⚙️ **Configuration**: Configure and use plugins in the `pom.xml` file.
     
 
-## **8. Maven Lifecycle 🔄 (5 minutes)**
+## 8. Maven Lifecycle 🔄 (5 minutes)
 
 -   🔄 **Lifecycle Phases**: Maven follows a predefined build lifecycle with phases like `validate`, `compile`, `test`, `package`, `install`, and `deploy`.
     
@@ -85,7 +85,7 @@
 -   🧹 **Clean vs. Verify**: Use `clean` to remove build artifacts and `verify` to run integration tests and check project quality.
     
 
-## **9. Best Practices and Tips 💡 (5 minutes)**
+## 9. Best Practices and Tips 💡 (5 minutes)
 
 -   🌟 **Best Practices**:
     
@@ -100,7 +100,7 @@
     -   Regularly update dependencies for security and bug fixes.
     -   Generate project reports and documentation using Maven plugins.
 
-## **10. Q&A Session ❓ (5 minutes)**
+## 10. Q&A Session ❓ (5 minutes)
 
 -   🗨️ **Open Discussion**: Open the floor for questions from participants.
     
@@ -109,7 +109,7 @@
 -   📣 **Sharing**: Encourage participants to share their experiences and challenges.
     
 
-## **11. Conclusion and Next Steps 🚪 (5 minutes)**
+## 11. Conclusion and Next Steps 🚪 (5 minutes)
 
 -   🌟 **Course Recap**: Summarize key takeaways from the course.
     
